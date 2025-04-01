@@ -1,0 +1,50 @@
+qa_gen_prompt_template = """
+I will give you a passage of text (the part between <document></document>). You need to read this text and generate 8 questions based on it, along with the corresponding context in which the user would answer the question, and the answer based on that context.
+
+Requirements for the questions, context, and answers:
+
+- The questions should be related to the content of the text. Do not ask meta-questions such as "In which chapter can this answer be found?"
+- Context: The context must be exactly consistent with the original text. Do not shorten, expand, paraphrase, summarize, or replace any words.
+- Answer: The answer should be complete and concise. It must be able to stand alone without repeating the question or referencing a chapter, section, or page.
+
+Return the result in JSON format, like this:
+[{"question": "...", "context": ..., "answer": "..."}, ...]
+
+If the text mainly consists of a table of contents, names, addresses, emails, or other information that cannot generate meaningful questions, return an empty list: [].
+
+Here is the text:
+<document>
+{{document}}
+</document>
+
+Please generate the result:
+"""
+
+
+qa_eval_prompt_tmpl = """
+You are an expert in the field of ml fairness. Someone has constructed a question and provided an answer based on a gender fairness guidelines.
+
+Your task is to evaluate the quality of the question (enclosed between <question></question>) and the answer (enclosed between <answer></answer>).
+
+Please return the result in JSON format, as shown below (within <result></result>):
+<result>
+{"score": ..., "reason": ...}
+</result>
+Here, "score" is an integer rating from 1 to 5 evaluating the quality of the question-answer pair, and "reason" is a brief explanation for the given score.
+
+A good question should ask about facts, opinions, or analytical insights. Poor questions usually request basic text processing such as summarization (e.g., "What does this paragraph describe?" or "What is described in the text?"), or ask about figure-specific content (e.g., "What data is shown in Figure 4?").
+
+A good answer should directly address the question. Poor answers may include irrelevant content or cite references from the original text like "as seen in Chapter 3," which do not independently answer the question.
+
+Question:
+<question>
+{{question}}
+</question>
+
+Reference Answer:
+<answer>
+{{answer}}
+</answer>
+
+Please return only the JSON output, without adding any other descriptive text.
+"""

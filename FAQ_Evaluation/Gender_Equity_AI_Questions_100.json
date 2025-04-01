@@ -1,0 +1,602 @@
+[
+  {
+    "question": "How does z-score analysis assist in identifying gender biases during preprocessing? (v0)",
+    "develop_stages": "Data preprocessing",
+    "context": "Identify quality issues through statistical methods like z-score analysis, constraint satisfaction checks. Statistical methods identify inconsistencies or inaccuracies related to gender variables, allowing for corrective actions, and promoting fair outcomes.",
+    "answer": "Z-score analysis detects inconsistencies in gender variables, helping to correct biases and ensure fair data processing."
+  },
+  {
+    "question": "What techniques help ensure representativeness during problem identification? (v1)",
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers. Define participant criteria to ensure gender balance and representation of diverse perspectives. Document insights ethically with participant consent, recording discussions anonymously to accurately capture gendered inputs and experiences.",
+    "answer": "Techniques include conducting inclusive workshops, setting gender-balanced participation criteria, and documenting participant insights ethically."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v2)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "Why is intersectional analysis important in evaluating model fairness? (v3)",
+    "develop_stages": "Model evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis, preventing masked harms.",
+    "answer": "Intersectional analysis reveals potential hidden harms across identity groups, ensuring more accurate model fairness evaluation."
+  },
+  {
+    "question": "How does z-score analysis assist in identifying gender biases during preprocessing? (v4)",
+    "develop_stages": "Data preprocessing",
+    "context": "Identify quality issues through statistical methods like z-score analysis, constraint satisfaction checks. Statistical methods identify inconsistencies or inaccuracies related to gender variables, allowing for corrective actions, and promoting fair outcomes.",
+    "answer": "Z-score analysis detects inconsistencies in gender variables, helping to correct biases and ensure fair data processing."
+  },
+  {
+    "question": "How does z-score analysis assist in identifying gender biases during preprocessing? (v5)",
+    "develop_stages": "Data preprocessing",
+    "context": "Identify quality issues through statistical methods like z-score analysis, constraint satisfaction checks. Statistical methods identify inconsistencies or inaccuracies related to gender variables, allowing for corrective actions, and promoting fair outcomes.",
+    "answer": "Z-score analysis detects inconsistencies in gender variables, helping to correct biases and ensure fair data processing."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v6)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  },
+  {
+    "question": "How does z-score analysis assist in identifying gender biases during preprocessing? (v7)",
+    "develop_stages": "Data preprocessing",
+    "context": "Identify quality issues through statistical methods like z-score analysis, constraint satisfaction checks. Statistical methods identify inconsistencies or inaccuracies related to gender variables, allowing for corrective actions, and promoting fair outcomes.",
+    "answer": "Z-score analysis detects inconsistencies in gender variables, helping to correct biases and ensure fair data processing."
+  },
+  {
+    "question": "What is the purpose of beta testing before full model deployment? (v8)",
+    "develop_stages": "Deployment",
+    "context": "Start with a smaller beta testing phase. Document deployment risks including access to digital infrastructure and exposure of marginalized groups. Implement real-time user feedback systems and monitoring dashboards to track gender-related performance.",
+    "answer": "Beta testing identifies deployment risks and enables early user feedback to improve gender-sensitive performance."
+  },
+  {
+    "question": "How can feedback loops support fairness after model deployment? (v9)",
+    "develop_stages": "Evaluation",
+    "context": "Include external reviews and feedback loops from marginalized communities. Continuously retrain models to adapt to changes and reduce identified biases.",
+    "answer": "Feedback loops from marginalized groups help identify issues and guide model updates to maintain fairness."
+  },
+  {
+    "question": "Why is recruiting culturally competent data labelers important in gender equitable AI development? (v10)",
+    "develop_stages": "Data collection",
+    "context": "Recruit data labelers from target community with local cultural/linguistic competency. Ensure at least half of enumerators are women. Moreover, ensure that respondent metadata and design data schemas link gender, race, location etc. for intersectional analysis.",
+    "answer": "Recruiting culturally competent labelers ensures accurate data interpretation and supports intersectional analysis in gender equitable AI development."
+  },
+  {
+    "question": "How does z-score analysis assist in identifying gender biases during preprocessing? (v11)",
+    "develop_stages": "Data preprocessing",
+    "context": "Identify quality issues through statistical methods like z-score analysis, constraint satisfaction checks. Statistical methods identify inconsistencies or inaccuracies related to gender variables, allowing for corrective actions, and promoting fair outcomes.",
+    "answer": "Z-score analysis detects inconsistencies in gender variables, helping to correct biases and ensure fair data processing."
+  },
+  {
+    "question": "Why is recruiting culturally competent data labelers important in gender equitable AI development? (v12)",
+    "develop_stages": "Data collection",
+    "context": "Recruit data labelers from target community with local cultural/linguistic competency. Ensure at least half of enumerators are women. Moreover, ensure that respondent metadata and design data schemas link gender, race, location etc. for intersectional analysis.",
+    "answer": "Recruiting culturally competent labelers ensures accurate data interpretation and supports intersectional analysis in gender equitable AI development."
+  },
+  {
+    "question": "Why is intersectional analysis important in evaluating model fairness? (v13)",
+    "develop_stages": "Model evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis, preventing masked harms.",
+    "answer": "Intersectional analysis reveals potential hidden harms across identity groups, ensuring more accurate model fairness evaluation."
+  },
+  {
+    "question": "What techniques help ensure representativeness during problem identification? (v14)",
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers. Define participant criteria to ensure gender balance and representation of diverse perspectives. Document insights ethically with participant consent, recording discussions anonymously to accurately capture gendered inputs and experiences.",
+    "answer": "Techniques include conducting inclusive workshops, setting gender-balanced participation criteria, and documenting participant insights ethically."
+  },
+  {
+    "question": "What techniques help ensure representativeness during problem identification? (v15)",
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers. Define participant criteria to ensure gender balance and representation of diverse perspectives. Document insights ethically with participant consent, recording discussions anonymously to accurately capture gendered inputs and experiences.",
+    "answer": "Techniques include conducting inclusive workshops, setting gender-balanced participation criteria, and documenting participant insights ethically."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v16)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  },
+  {
+    "question": "How can feedback loops support fairness after model deployment? (v17)",
+    "develop_stages": "Evaluation",
+    "context": "Include external reviews and feedback loops from marginalized communities. Continuously retrain models to adapt to changes and reduce identified biases.",
+    "answer": "Feedback loops from marginalized groups help identify issues and guide model updates to maintain fairness."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v18)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  },
+  {
+    "question": "Why is recruiting culturally competent data labelers important in gender equitable AI development? (v19)",
+    "develop_stages": "Data collection",
+    "context": "Recruit data labelers from target community with local cultural/linguistic competency. Ensure at least half of enumerators are women. Moreover, ensure that respondent metadata and design data schemas link gender, race, location etc. for intersectional analysis.",
+    "answer": "Recruiting culturally competent labelers ensures accurate data interpretation and supports intersectional analysis in gender equitable AI development."
+  },
+  {
+    "question": "What techniques help ensure representativeness during problem identification? (v20)",
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers. Define participant criteria to ensure gender balance and representation of diverse perspectives. Document insights ethically with participant consent, recording discussions anonymously to accurately capture gendered inputs and experiences.",
+    "answer": "Techniques include conducting inclusive workshops, setting gender-balanced participation criteria, and documenting participant insights ethically."
+  },
+  {
+    "question": "What is the purpose of beta testing before full model deployment? (v21)",
+    "develop_stages": "Deployment",
+    "context": "Start with a smaller beta testing phase. Document deployment risks including access to digital infrastructure and exposure of marginalized groups. Implement real-time user feedback systems and monitoring dashboards to track gender-related performance.",
+    "answer": "Beta testing identifies deployment risks and enables early user feedback to improve gender-sensitive performance."
+  },
+  {
+    "question": "What is the purpose of beta testing before full model deployment? (v22)",
+    "develop_stages": "Deployment",
+    "context": "Start with a smaller beta testing phase. Document deployment risks including access to digital infrastructure and exposure of marginalized groups. Implement real-time user feedback systems and monitoring dashboards to track gender-related performance.",
+    "answer": "Beta testing identifies deployment risks and enables early user feedback to improve gender-sensitive performance."
+  },
+  {
+    "question": "What techniques help ensure representativeness during problem identification? (v23)",
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers. Define participant criteria to ensure gender balance and representation of diverse perspectives. Document insights ethically with participant consent, recording discussions anonymously to accurately capture gendered inputs and experiences.",
+    "answer": "Techniques include conducting inclusive workshops, setting gender-balanced participation criteria, and documenting participant insights ethically."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v24)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "How does z-score analysis assist in identifying gender biases during preprocessing? (v25)",
+    "develop_stages": "Data preprocessing",
+    "context": "Identify quality issues through statistical methods like z-score analysis, constraint satisfaction checks. Statistical methods identify inconsistencies or inaccuracies related to gender variables, allowing for corrective actions, and promoting fair outcomes.",
+    "answer": "Z-score analysis detects inconsistencies in gender variables, helping to correct biases and ensure fair data processing."
+  },
+  {
+    "question": "What is the purpose of beta testing before full model deployment? (v26)",
+    "develop_stages": "Deployment",
+    "context": "Start with a smaller beta testing phase. Document deployment risks including access to digital infrastructure and exposure of marginalized groups. Implement real-time user feedback systems and monitoring dashboards to track gender-related performance.",
+    "answer": "Beta testing identifies deployment risks and enables early user feedback to improve gender-sensitive performance."
+  },
+  {
+    "question": "How can feedback loops support fairness after model deployment? (v27)",
+    "develop_stages": "Evaluation",
+    "context": "Include external reviews and feedback loops from marginalized communities. Continuously retrain models to adapt to changes and reduce identified biases.",
+    "answer": "Feedback loops from marginalized groups help identify issues and guide model updates to maintain fairness."
+  },
+  {
+    "question": "How can feedback loops support fairness after model deployment? (v28)",
+    "develop_stages": "Evaluation",
+    "context": "Include external reviews and feedback loops from marginalized communities. Continuously retrain models to adapt to changes and reduce identified biases.",
+    "answer": "Feedback loops from marginalized groups help identify issues and guide model updates to maintain fairness."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v29)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  },
+  {
+    "question": "Why is recruiting culturally competent data labelers important in gender equitable AI development? (v30)",
+    "develop_stages": "Data collection",
+    "context": "Recruit data labelers from target community with local cultural/linguistic competency. Ensure at least half of enumerators are women. Moreover, ensure that respondent metadata and design data schemas link gender, race, location etc. for intersectional analysis.",
+    "answer": "Recruiting culturally competent labelers ensures accurate data interpretation and supports intersectional analysis in gender equitable AI development."
+  },
+  {
+    "question": "What is the purpose of beta testing before full model deployment? (v31)",
+    "develop_stages": "Deployment",
+    "context": "Start with a smaller beta testing phase. Document deployment risks including access to digital infrastructure and exposure of marginalized groups. Implement real-time user feedback systems and monitoring dashboards to track gender-related performance.",
+    "answer": "Beta testing identifies deployment risks and enables early user feedback to improve gender-sensitive performance."
+  },
+  {
+    "question": "Why is intersectional analysis important in evaluating model fairness? (v32)",
+    "develop_stages": "Model evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis, preventing masked harms.",
+    "answer": "Intersectional analysis reveals potential hidden harms across identity groups, ensuring more accurate model fairness evaluation."
+  },
+  {
+    "question": "What is the purpose of beta testing before full model deployment? (v33)",
+    "develop_stages": "Deployment",
+    "context": "Start with a smaller beta testing phase. Document deployment risks including access to digital infrastructure and exposure of marginalized groups. Implement real-time user feedback systems and monitoring dashboards to track gender-related performance.",
+    "answer": "Beta testing identifies deployment risks and enables early user feedback to improve gender-sensitive performance."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v34)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "Why is intersectional analysis important in evaluating model fairness? (v35)",
+    "develop_stages": "Model evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis, preventing masked harms.",
+    "answer": "Intersectional analysis reveals potential hidden harms across identity groups, ensuring more accurate model fairness evaluation."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v36)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v37)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "Why is intersectional analysis important in evaluating model fairness? (v38)",
+    "develop_stages": "Model evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis, preventing masked harms.",
+    "answer": "Intersectional analysis reveals potential hidden harms across identity groups, ensuring more accurate model fairness evaluation."
+  },
+  {
+    "question": "What is the purpose of beta testing before full model deployment? (v39)",
+    "develop_stages": "Deployment",
+    "context": "Start with a smaller beta testing phase. Document deployment risks including access to digital infrastructure and exposure of marginalized groups. Implement real-time user feedback systems and monitoring dashboards to track gender-related performance.",
+    "answer": "Beta testing identifies deployment risks and enables early user feedback to improve gender-sensitive performance."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v40)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "Why is recruiting culturally competent data labelers important in gender equitable AI development? (v41)",
+    "develop_stages": "Data collection",
+    "context": "Recruit data labelers from target community with local cultural/linguistic competency. Ensure at least half of enumerators are women. Moreover, ensure that respondent metadata and design data schemas link gender, race, location etc. for intersectional analysis.",
+    "answer": "Recruiting culturally competent labelers ensures accurate data interpretation and supports intersectional analysis in gender equitable AI development."
+  },
+  {
+    "question": "Why is recruiting culturally competent data labelers important in gender equitable AI development? (v42)",
+    "develop_stages": "Data collection",
+    "context": "Recruit data labelers from target community with local cultural/linguistic competency. Ensure at least half of enumerators are women. Moreover, ensure that respondent metadata and design data schemas link gender, race, location etc. for intersectional analysis.",
+    "answer": "Recruiting culturally competent labelers ensures accurate data interpretation and supports intersectional analysis in gender equitable AI development."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v43)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  },
+  {
+    "question": "Why is intersectional analysis important in evaluating model fairness? (v44)",
+    "develop_stages": "Model evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis, preventing masked harms.",
+    "answer": "Intersectional analysis reveals potential hidden harms across identity groups, ensuring more accurate model fairness evaluation."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v45)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "What techniques help ensure representativeness during problem identification? (v46)",
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers. Define participant criteria to ensure gender balance and representation of diverse perspectives. Document insights ethically with participant consent, recording discussions anonymously to accurately capture gendered inputs and experiences.",
+    "answer": "Techniques include conducting inclusive workshops, setting gender-balanced participation criteria, and documenting participant insights ethically."
+  },
+  {
+    "question": "How does z-score analysis assist in identifying gender biases during preprocessing? (v47)",
+    "develop_stages": "Data preprocessing",
+    "context": "Identify quality issues through statistical methods like z-score analysis, constraint satisfaction checks. Statistical methods identify inconsistencies or inaccuracies related to gender variables, allowing for corrective actions, and promoting fair outcomes.",
+    "answer": "Z-score analysis detects inconsistencies in gender variables, helping to correct biases and ensure fair data processing."
+  },
+  {
+    "question": "How can feedback loops support fairness after model deployment? (v48)",
+    "develop_stages": "Evaluation",
+    "context": "Include external reviews and feedback loops from marginalized communities. Continuously retrain models to adapt to changes and reduce identified biases.",
+    "answer": "Feedback loops from marginalized groups help identify issues and guide model updates to maintain fairness."
+  },
+  {
+    "question": "How does z-score analysis assist in identifying gender biases during preprocessing? (v49)",
+    "develop_stages": "Data preprocessing",
+    "context": "Identify quality issues through statistical methods like z-score analysis, constraint satisfaction checks. Statistical methods identify inconsistencies or inaccuracies related to gender variables, allowing for corrective actions, and promoting fair outcomes.",
+    "answer": "Z-score analysis detects inconsistencies in gender variables, helping to correct biases and ensure fair data processing."
+  },
+  {
+    "question": "What is the purpose of beta testing before full model deployment? (v50)",
+    "develop_stages": "Deployment",
+    "context": "Start with a smaller beta testing phase. Document deployment risks including access to digital infrastructure and exposure of marginalized groups. Implement real-time user feedback systems and monitoring dashboards to track gender-related performance.",
+    "answer": "Beta testing identifies deployment risks and enables early user feedback to improve gender-sensitive performance."
+  },
+  {
+    "question": "What techniques help ensure representativeness during problem identification? (v51)",
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers. Define participant criteria to ensure gender balance and representation of diverse perspectives. Document insights ethically with participant consent, recording discussions anonymously to accurately capture gendered inputs and experiences.",
+    "answer": "Techniques include conducting inclusive workshops, setting gender-balanced participation criteria, and documenting participant insights ethically."
+  },
+  {
+    "question": "How does z-score analysis assist in identifying gender biases during preprocessing? (v52)",
+    "develop_stages": "Data preprocessing",
+    "context": "Identify quality issues through statistical methods like z-score analysis, constraint satisfaction checks. Statistical methods identify inconsistencies or inaccuracies related to gender variables, allowing for corrective actions, and promoting fair outcomes.",
+    "answer": "Z-score analysis detects inconsistencies in gender variables, helping to correct biases and ensure fair data processing."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v53)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "What techniques help ensure representativeness during problem identification? (v54)",
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers. Define participant criteria to ensure gender balance and representation of diverse perspectives. Document insights ethically with participant consent, recording discussions anonymously to accurately capture gendered inputs and experiences.",
+    "answer": "Techniques include conducting inclusive workshops, setting gender-balanced participation criteria, and documenting participant insights ethically."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v55)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  },
+  {
+    "question": "Why is intersectional analysis important in evaluating model fairness? (v56)",
+    "develop_stages": "Model evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis, preventing masked harms.",
+    "answer": "Intersectional analysis reveals potential hidden harms across identity groups, ensuring more accurate model fairness evaluation."
+  },
+  {
+    "question": "Why is intersectional analysis important in evaluating model fairness? (v57)",
+    "develop_stages": "Model evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis, preventing masked harms.",
+    "answer": "Intersectional analysis reveals potential hidden harms across identity groups, ensuring more accurate model fairness evaluation."
+  },
+  {
+    "question": "Why is intersectional analysis important in evaluating model fairness? (v58)",
+    "develop_stages": "Model evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis, preventing masked harms.",
+    "answer": "Intersectional analysis reveals potential hidden harms across identity groups, ensuring more accurate model fairness evaluation."
+  },
+  {
+    "question": "What techniques help ensure representativeness during problem identification? (v59)",
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers. Define participant criteria to ensure gender balance and representation of diverse perspectives. Document insights ethically with participant consent, recording discussions anonymously to accurately capture gendered inputs and experiences.",
+    "answer": "Techniques include conducting inclusive workshops, setting gender-balanced participation criteria, and documenting participant insights ethically."
+  },
+  {
+    "question": "Why is recruiting culturally competent data labelers important in gender equitable AI development? (v60)",
+    "develop_stages": "Data collection",
+    "context": "Recruit data labelers from target community with local cultural/linguistic competency. Ensure at least half of enumerators are women. Moreover, ensure that respondent metadata and design data schemas link gender, race, location etc. for intersectional analysis.",
+    "answer": "Recruiting culturally competent labelers ensures accurate data interpretation and supports intersectional analysis in gender equitable AI development."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v61)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v62)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "How can feedback loops support fairness after model deployment? (v63)",
+    "develop_stages": "Evaluation",
+    "context": "Include external reviews and feedback loops from marginalized communities. Continuously retrain models to adapt to changes and reduce identified biases.",
+    "answer": "Feedback loops from marginalized groups help identify issues and guide model updates to maintain fairness."
+  },
+  {
+    "question": "How does z-score analysis assist in identifying gender biases during preprocessing? (v64)",
+    "develop_stages": "Data preprocessing",
+    "context": "Identify quality issues through statistical methods like z-score analysis, constraint satisfaction checks. Statistical methods identify inconsistencies or inaccuracies related to gender variables, allowing for corrective actions, and promoting fair outcomes.",
+    "answer": "Z-score analysis detects inconsistencies in gender variables, helping to correct biases and ensure fair data processing."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v65)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v66)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v67)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "What techniques help ensure representativeness during problem identification? (v68)",
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers. Define participant criteria to ensure gender balance and representation of diverse perspectives. Document insights ethically with participant consent, recording discussions anonymously to accurately capture gendered inputs and experiences.",
+    "answer": "Techniques include conducting inclusive workshops, setting gender-balanced participation criteria, and documenting participant insights ethically."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v69)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v70)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "How does z-score analysis assist in identifying gender biases during preprocessing? (v71)",
+    "develop_stages": "Data preprocessing",
+    "context": "Identify quality issues through statistical methods like z-score analysis, constraint satisfaction checks. Statistical methods identify inconsistencies or inaccuracies related to gender variables, allowing for corrective actions, and promoting fair outcomes.",
+    "answer": "Z-score analysis detects inconsistencies in gender variables, helping to correct biases and ensure fair data processing."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v72)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v73)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "Why is recruiting culturally competent data labelers important in gender equitable AI development? (v74)",
+    "develop_stages": "Data collection",
+    "context": "Recruit data labelers from target community with local cultural/linguistic competency. Ensure at least half of enumerators are women. Moreover, ensure that respondent metadata and design data schemas link gender, race, location etc. for intersectional analysis.",
+    "answer": "Recruiting culturally competent labelers ensures accurate data interpretation and supports intersectional analysis in gender equitable AI development."
+  },
+  {
+    "question": "What is the purpose of beta testing before full model deployment? (v75)",
+    "develop_stages": "Deployment",
+    "context": "Start with a smaller beta testing phase. Document deployment risks including access to digital infrastructure and exposure of marginalized groups. Implement real-time user feedback systems and monitoring dashboards to track gender-related performance.",
+    "answer": "Beta testing identifies deployment risks and enables early user feedback to improve gender-sensitive performance."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v76)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  },
+  {
+    "question": "Why is recruiting culturally competent data labelers important in gender equitable AI development? (v77)",
+    "develop_stages": "Data collection",
+    "context": "Recruit data labelers from target community with local cultural/linguistic competency. Ensure at least half of enumerators are women. Moreover, ensure that respondent metadata and design data schemas link gender, race, location etc. for intersectional analysis.",
+    "answer": "Recruiting culturally competent labelers ensures accurate data interpretation and supports intersectional analysis in gender equitable AI development."
+  },
+  {
+    "question": "What techniques help ensure representativeness during problem identification? (v78)",
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers. Define participant criteria to ensure gender balance and representation of diverse perspectives. Document insights ethically with participant consent, recording discussions anonymously to accurately capture gendered inputs and experiences.",
+    "answer": "Techniques include conducting inclusive workshops, setting gender-balanced participation criteria, and documenting participant insights ethically."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v79)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "What techniques help ensure representativeness during problem identification? (v80)",
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers. Define participant criteria to ensure gender balance and representation of diverse perspectives. Document insights ethically with participant consent, recording discussions anonymously to accurately capture gendered inputs and experiences.",
+    "answer": "Techniques include conducting inclusive workshops, setting gender-balanced participation criteria, and documenting participant insights ethically."
+  },
+  {
+    "question": "How does z-score analysis assist in identifying gender biases during preprocessing? (v81)",
+    "develop_stages": "Data preprocessing",
+    "context": "Identify quality issues through statistical methods like z-score analysis, constraint satisfaction checks. Statistical methods identify inconsistencies or inaccuracies related to gender variables, allowing for corrective actions, and promoting fair outcomes.",
+    "answer": "Z-score analysis detects inconsistencies in gender variables, helping to correct biases and ensure fair data processing."
+  },
+  {
+    "question": "What techniques help ensure representativeness during problem identification? (v82)",
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers. Define participant criteria to ensure gender balance and representation of diverse perspectives. Document insights ethically with participant consent, recording discussions anonymously to accurately capture gendered inputs and experiences.",
+    "answer": "Techniques include conducting inclusive workshops, setting gender-balanced participation criteria, and documenting participant insights ethically."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v83)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  },
+  {
+    "question": "What is the purpose of beta testing before full model deployment? (v84)",
+    "develop_stages": "Deployment",
+    "context": "Start with a smaller beta testing phase. Document deployment risks including access to digital infrastructure and exposure of marginalized groups. Implement real-time user feedback systems and monitoring dashboards to track gender-related performance.",
+    "answer": "Beta testing identifies deployment risks and enables early user feedback to improve gender-sensitive performance."
+  },
+  {
+    "question": "What is the purpose of beta testing before full model deployment? (v85)",
+    "develop_stages": "Deployment",
+    "context": "Start with a smaller beta testing phase. Document deployment risks including access to digital infrastructure and exposure of marginalized groups. Implement real-time user feedback systems and monitoring dashboards to track gender-related performance.",
+    "answer": "Beta testing identifies deployment risks and enables early user feedback to improve gender-sensitive performance."
+  },
+  {
+    "question": "Why is intersectional analysis important in evaluating model fairness? (v86)",
+    "develop_stages": "Model evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis, preventing masked harms.",
+    "answer": "Intersectional analysis reveals potential hidden harms across identity groups, ensuring more accurate model fairness evaluation."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v87)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  },
+  {
+    "question": "How does z-score analysis assist in identifying gender biases during preprocessing? (v88)",
+    "develop_stages": "Data preprocessing",
+    "context": "Identify quality issues through statistical methods like z-score analysis, constraint satisfaction checks. Statistical methods identify inconsistencies or inaccuracies related to gender variables, allowing for corrective actions, and promoting fair outcomes.",
+    "answer": "Z-score analysis detects inconsistencies in gender variables, helping to correct biases and ensure fair data processing."
+  },
+  {
+    "question": "What is the purpose of beta testing before full model deployment? (v89)",
+    "develop_stages": "Deployment",
+    "context": "Start with a smaller beta testing phase. Document deployment risks including access to digital infrastructure and exposure of marginalized groups. Implement real-time user feedback systems and monitoring dashboards to track gender-related performance.",
+    "answer": "Beta testing identifies deployment risks and enables early user feedback to improve gender-sensitive performance."
+  },
+  {
+    "question": "How can feedback loops support fairness after model deployment? (v90)",
+    "develop_stages": "Evaluation",
+    "context": "Include external reviews and feedback loops from marginalized communities. Continuously retrain models to adapt to changes and reduce identified biases.",
+    "answer": "Feedback loops from marginalized groups help identify issues and guide model updates to maintain fairness."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v91)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "Why is recruiting culturally competent data labelers important in gender equitable AI development? (v92)",
+    "develop_stages": "Data collection",
+    "context": "Recruit data labelers from target community with local cultural/linguistic competency. Ensure at least half of enumerators are women. Moreover, ensure that respondent metadata and design data schemas link gender, race, location etc. for intersectional analysis.",
+    "answer": "Recruiting culturally competent labelers ensures accurate data interpretation and supports intersectional analysis in gender equitable AI development."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v93)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "What is the role of fairness metrics in model cards during model creation? (v94)",
+    "develop_stages": "Model creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics. They play a crucial role by explicitly documenting considerations related to gender biases, fairness metrics, and subgroup performance.",
+    "answer": "Fairness metrics in model cards document gender-related performance and promote accountability in model development."
+  },
+  {
+    "question": "What techniques help ensure representativeness during problem identification? (v95)",
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers. Define participant criteria to ensure gender balance and representation of diverse perspectives. Document insights ethically with participant consent, recording discussions anonymously to accurately capture gendered inputs and experiences.",
+    "answer": "Techniques include conducting inclusive workshops, setting gender-balanced participation criteria, and documenting participant insights ethically."
+  },
+  {
+    "question": "What is the purpose of beta testing before full model deployment? (v96)",
+    "develop_stages": "Deployment",
+    "context": "Start with a smaller beta testing phase. Document deployment risks including access to digital infrastructure and exposure of marginalized groups. Implement real-time user feedback systems and monitoring dashboards to track gender-related performance.",
+    "answer": "Beta testing identifies deployment risks and enables early user feedback to improve gender-sensitive performance."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v97)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  },
+  {
+    "question": "How can feedback loops support fairness after model deployment? (v98)",
+    "develop_stages": "Evaluation",
+    "context": "Include external reviews and feedback loops from marginalized communities. Continuously retrain models to adapt to changes and reduce identified biases.",
+    "answer": "Feedback loops from marginalized groups help identify issues and guide model updates to maintain fairness."
+  },
+  {
+    "question": "How can regularization methods improve gender fairness during training? (v99)",
+    "develop_stages": "Model tuning and training",
+    "context": "Implement regularization methods like dropout and early stopping to reduce overfitting and improve generalizability across demographics. Regularization yields models better suited for varying gender cohorts.",
+    "answer": "Regularization helps reduce overfitting and enhances generalizability across gender groups, improving fairness."
+  }
+]
