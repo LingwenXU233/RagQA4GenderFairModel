@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Why is obtaining consent critical when collecting gender-specific data in voice assistants?",
+    "question_id": 60,
+    "develop_stages": "Data Collection",
+    "context": "Ensure safeguards to collect, store and label personal data lawfully, transparently, and securely with permission. Such safeguards must clearly explain the purpose of data gathering and types of questions in informed consent procedures.",
+    "answer": "You need clear consent procedures, secure data handling, and transparent communication about data use."
+  },
+  {
+    "question": "Why is obtaining consent critical when collecting gender-specific data in humanitarian aid?",
+    "question_id": 94,
+    "develop_stages": "Data Collection",
+    "context": "Ensure safeguards to collect, store and label personal data lawfully, transparently, and securely with permission. Such safeguards must clearly explain the purpose of data gathering and types of questions in informed consent procedures.",
+    "answer": "You need clear consent procedures, secure data handling, and transparent communication about data use."
+  },
+  {
+    "question": "How does model architecture affect gender inclusivity in healthcare applications?",
+    "question_id": 90,
+    "develop_stages": "Model Creation",
+    "context": "Evaluate and select model architectures that inherently account for gender fairness and equity considerations.",
+    "answer": "Select models known for their transparency and ability to incorporate fairness constraints or bias mitigation strategies."
+  },
+  {
+    "question": "How can community feedback loops be integrated into voice assistants evaluation?",
+    "question_id": 78,
+    "develop_stages": "Evaluation",
+    "context": "Archive versions of data and models to allow rollback if problems emerge. Archiving supports comparison and rollback for diagnosis of emergent gender-related issues.",
+    "answer": "It enables issue tracing, comparison, and rollback in case of emergent gender bias or performance issues."
+  },
+  {
+    "question": "What long-term metrics best assess gender impact in financial services?",
+    "question_id": 68,
+    "develop_stages": "Evaluation",
+    "context": "Budget for regular algorithmic audits by specialists in identifying algorithmic harms to measure efficacy of group bias.",
+    "answer": "Conduct audits at regular intervals, such as quarterly or biannually, depending on data update frequency."
+  },
+  {
+    "question": "Why should we involve local program staff in model selection for gender fairness?",
+    "question_id": 12,
+    "develop_stages": "Model Creation",
+    "context": "Evaluate and select model architectures that inherently account for gender fairness and equity considerations.",
+    "answer": "Select models known for their transparency and ability to incorporate fairness constraints or bias mitigation strategies."
+  },
+  {
+    "question": "How can community feedback loops be integrated into image classification evaluation?",
+    "question_id": 56,
+    "develop_stages": "Evaluation",
+    "context": "Budget for regular algorithmic audits by specialists in identifying algorithmic harms to measure efficacy of group bias.",
+    "answer": "Conduct audits at regular intervals, such as quarterly or biannually, depending on data update frequency."
+  },
+  {
+    "question": "What are effective ways to gather local input to define gender-related challenges?",
+    "question_id": 1,
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers.",
+    "answer": "Involving diverse community members ensures that gendered experiences and barriers are considered, leading to more equitable AI solutions."
+  },
+  {
+    "question": "How can we ensure that smart city infrastructure models consider fairness across gender lines?",
+    "question_id": 63,
+    "develop_stages": "Model Creation",
+    "context": "Evaluate and select model architectures that inherently account for gender fairness and equity considerations.",
+    "answer": "Select models known for their transparency and ability to incorporate fairness constraints or bias mitigation strategies."
+  },
+  {
+    "question": "How do we define success for gender equity in the context of smart city infrastructure?",
+    "question_id": 75,
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers.",
+    "answer": "Involving diverse community members ensures that gendered experiences and barriers are considered, leading to more equitable AI solutions."
+  },
+  {
+    "question": "How can we balance inclusivity with privacy during data collection for smart city infrastructure?",
+    "question_id": 73,
+    "develop_stages": "Data Collection",
+    "context": "Conducting gender disaggregated data analysis during data collection is imperative. It involves separating collected data by gender categories like male/female/unspecified and digging deeper to uncover systemic differences between various groups and identities.",
+    "answer": "It reveals disparities and potential biases early, enabling proactive adjustments before model training begins."
+  },
+  {
+    "question": "Why is outlier detection important for gender-related variables in humanitarian aid?",
+    "question_id": 50,
+    "develop_stages": "Data preprocessing",
+    "context": "An essential precursor to model creation is analysis of the prepared dataset using an intersectional approach to unveil potential gender biases.",
+    "answer": "It helps detect and address compounded discrimination by analyzing how gender intersects with other attributes like race or income."
+  },
+  {
+    "question": "How do I make sure our model deployment does not exclude underserved gender groups?",
+    "question_id": 37,
+    "develop_stages": "Deployment",
+    "context": "Ensure problem centric deployment that is intricately aligned with the specific challenges faced by country programs and services.",
+    "answer": "Align deployments with local gender needs and validate inclusivity in real-world usage scenarios."
+  },
+  {
+    "question": "How does model architecture affect gender inclusivity in smart city infrastructure?",
+    "question_id": 58,
+    "develop_stages": "Model Creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics.",
+    "answer": "They provide transparency by documenting fairness metrics and gender-related performance evaluations."
+  },
+  {
+    "question": "How can hyperparameter tuning be optimized to support fairness in image classification?",
+    "question_id": 48,
+    "develop_stages": "Model Tuning and Training",
+    "context": "Implement adversarial validation to proactively search for problematic failure from the model in use cases across demographics.",
+    "answer": "It helps detect and address cases where the model may fail or behave unfairly for specific gender groups."
+  },
+  {
+    "question": "What methods can help identify gender-related barriers in smart city infrastructure?",
+    "question_id": 46,
+    "develop_stages": "Problem identification",
+    "context": "Problem identification is where the team defines the objectives and the data needed to address the underlying problem.",
+    "answer": "Ensure the problem definition explicitly considers gender-related challenges and includes objectives to mitigate gender inequity."
+  },
+  {
+    "question": "How can we validate model performance on underrepresented groups in NGO field data systems?",
+    "question_id": 62,
+    "develop_stages": "Model Tuning and Training",
+    "context": "Define Model Complexity: Assess the model's complexity in terms of parameters and architecture, crucial as more complex models demand larger datasets to capture nuanced gender-related patterns effectively.",
+    "answer": "Use statistical power analysis or learning curves to evaluate if your dataset adequately represents all gender groups."
+  },
+  {
+    "question": "How often should we audit our AI system for gender bias post-deployment?",
+    "question_id": 32,
+    "develop_stages": "Evaluation",
+    "context": "Budget for regular algorithmic audits by specialists in identifying algorithmic harms to measure efficacy of group bias.",
+    "answer": "Conduct audits at regular intervals, such as quarterly or biannually, depending on data update frequency."
+  },
+  {
+    "question": "What long-term metrics best assess gender impact in voice assistants?",
+    "question_id": 69,
+    "develop_stages": "Evaluation",
+    "context": "Archive versions of data and models to allow rollback if problems emerge. Archiving supports comparison and rollback for diagnosis of emergent gender-related issues.",
+    "answer": "It enables issue tracing, comparison, and rollback in case of emergent gender bias or performance issues."
+  },
+  {
+    "question": "Why should an ethics committee include gender specialists from the start?",
+    "question_id": 2,
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers.",
+    "answer": "Involving diverse community members ensures that gendered experiences and barriers are considered, leading to more equitable AI solutions."
+  },
+  {
+    "question": "How do I pick a model architecture that supports gender fairness?",
+    "question_id": 28,
+    "develop_stages": "Model Creation",
+    "context": "Evaluate and select model architectures that inherently account for gender fairness and equity considerations.",
+    "answer": "Select models known for their transparency and ability to incorporate fairness constraints or bias mitigation strategies."
+  },
+  {
+    "question": "How frequently should financial services models be audited for gender bias?",
+    "question_id": 74,
+    "develop_stages": "Model Evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis.",
+    "answer": "It uncovers hidden biases that may not be apparent in overall accuracy metrics, ensuring more equitable performance."
+  },
+  {
+    "question": "Why are model cards important in gender-equitable AI?",
+    "question_id": 35,
+    "develop_stages": "Model Creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics.",
+    "answer": "They provide transparency by documenting fairness metrics and gender-related performance evaluations."
+  },
+  {
+    "question": "What indicators should be used to evaluate fairness in image classification?",
+    "question_id": 79,
+    "develop_stages": "Model Evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis.",
+    "answer": "It uncovers hidden biases that may not be apparent in overall accuracy metrics, ensuring more equitable performance."
+  },
+  {
+    "question": "How can data collection be adjusted to reflect local gender norms in financial services?",
+    "question_id": 52,
+    "develop_stages": "Data Collection",
+    "context": "Conducting gender disaggregated data analysis during data collection is imperative. It involves separating collected data by gender categories like male/female/unspecified and digging deeper to uncover systemic differences between various groups and identities.",
+    "answer": "It reveals disparities and potential biases early, enabling proactive adjustments before model training begins."
+  },
+  {
+    "question": "Why is outlier detection important for gender-related variables in voice assistants?",
+    "question_id": 70,
+    "develop_stages": "Data preprocessing",
+    "context": "Clean the data by handling missing values via imputation, smoothing noise using binning, outlier capping.",
+    "answer": "Use ethical imputation methods that do not reinforce bias, or consider excluding incomplete records if imputation is not viable."
+  },
+  {
+    "question": "How can learning curves reveal disparities in gender-specific model learning?",
+    "question_id": 16,
+    "develop_stages": "Model Tuning and Training",
+    "context": "Implement adversarial validation to proactively search for problematic failure from the model in use cases across demographics.",
+    "answer": "It helps detect and address cases where the model may fail or behave unfairly for specific gender groups."
+  },
+  {
+    "question": "How can we balance inclusivity with privacy during data collection for NGO field data systems?",
+    "question_id": 91,
+    "develop_stages": "Data Collection",
+    "context": "Ensure safeguards to collect, store and label personal data lawfully, transparently, and securely with permission. Such safeguards must clearly explain the purpose of data gathering and types of questions in informed consent procedures.",
+    "answer": "You need clear consent procedures, secure data handling, and transparent communication about data use."
+  },
+  {
+    "question": "How can we ensure that healthcare applications models consider fairness across gender lines?",
+    "question_id": 93,
+    "develop_stages": "Model Creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics.",
+    "answer": "They provide transparency by documenting fairness metrics and gender-related performance evaluations."
+  },
+  {
+    "question": "What preprocessing techniques help prevent bias in humanitarian aid datasets?",
+    "question_id": 96,
+    "develop_stages": "Data preprocessing",
+    "context": "Clean the data by handling missing values via imputation, smoothing noise using binning, outlier capping.",
+    "answer": "Use ethical imputation methods that do not reinforce bias, or consider excluding incomplete records if imputation is not viable."
+  },
+  {
+    "question": "How can we validate the reliability of gender attributes from external sources?",
+    "question_id": 6,
+    "develop_stages": "Data Collection",
+    "context": "Ensure safeguards to collect, store and label personal data lawfully, transparently, and securely with permission. Such safeguards must clearly explain the purpose of data gathering and types of questions in informed consent procedures.",
+    "answer": "You need clear consent procedures, secure data handling, and transparent communication about data use."
+  },
+  {
+    "question": "How can we balance inclusivity with privacy during data collection for image classification?",
+    "question_id": 76,
+    "develop_stages": "Data Collection",
+    "context": "Ensure safeguards to collect, store and label personal data lawfully, transparently, and securely with permission. Such safeguards must clearly explain the purpose of data gathering and types of questions in informed consent procedures.",
+    "answer": "You need clear consent procedures, secure data handling, and transparent communication about data use."
+  },
+  {
+    "question": "How can community feedback loops be integrated into job recommendation systems evaluation?",
+    "question_id": 83,
+    "develop_stages": "Evaluation",
+    "context": "Archive versions of data and models to allow rollback if problems emerge. Archiving supports comparison and rollback for diagnosis of emergent gender-related issues.",
+    "answer": "It enables issue tracing, comparison, and rollback in case of emergent gender bias or performance issues."
+  },
+  {
+    "question": "What should I do to ensure equitable access during deployment?",
+    "question_id": 31,
+    "develop_stages": "Deployment",
+    "context": "Establish deployment gates before full production release. Staged gates enforce rigorous standards at each deployment phase, including gender fairness measures.",
+    "answer": "Define gender equity checkpoints in deployment gates and ensure accessibility features are built in."
+  },
+  {
+    "question": "What should be included in the deployment checklist for gender safety in NGO field data systems?",
+    "question_id": 41,
+    "develop_stages": "Deployment",
+    "context": "Ensure problem centric deployment that is intricately aligned with the specific challenges faced by country programs and services.",
+    "answer": "Align deployments with local gender needs and validate inclusivity in real-world usage scenarios."
+  },
+  {
+    "question": "How should missing gender data be treated when preparing voice assistants?",
+    "question_id": 87,
+    "develop_stages": "Data preprocessing",
+    "context": "Clean the data by handling missing values via imputation, smoothing noise using binning, outlier capping.",
+    "answer": "Use ethical imputation methods that do not reinforce bias, or consider excluding incomplete records if imputation is not viable."
+  },
+  {
+    "question": "What\u2019s the benefit of using intersectional analysis when evaluating models?",
+    "question_id": 29,
+    "develop_stages": "Model Evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis.",
+    "answer": "It uncovers hidden biases that may not be apparent in overall accuracy metrics, ensuring more equitable performance."
+  },
+  {
+    "question": "Why is subgroup performance analysis important for evaluating healthcare applications?",
+    "question_id": 47,
+    "develop_stages": "Model Evaluation",
+    "context": "Quantify fairness metrics including variance and uncertainty of computed performance measures. Pay particular attention to gender groups prone to underrepresentation.",
+    "answer": "Include demographic parity, equal opportunity, and subgroup performance variance to assess gender fairness."
+  },
+  {
+    "question": "How can hyperparameter tuning be optimized to support fairness in voice assistants?",
+    "question_id": 44,
+    "develop_stages": "Model Tuning and Training",
+    "context": "Define Model Complexity: Assess the model's complexity in terms of parameters and architecture, crucial as more complex models demand larger datasets to capture nuanced gender-related patterns effectively.",
+    "answer": "Use statistical power analysis or learning curves to evaluate if your dataset adequately represents all gender groups."
+  },
+  {
+    "question": "What indicators should be used to evaluate fairness in humanitarian aid?",
+    "question_id": 55,
+    "develop_stages": "Model Evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis.",
+    "answer": "It uncovers hidden biases that may not be apparent in overall accuracy metrics, ensuring more equitable performance."
+  },
+  {
+    "question": "What indicators should be used to evaluate fairness in voice assistants?",
+    "question_id": 71,
+    "develop_stages": "Model Evaluation",
+    "context": "Quantify fairness metrics including variance and uncertainty of computed performance measures. Pay particular attention to gender groups prone to underrepresentation.",
+    "answer": "Include demographic parity, equal opportunity, and subgroup performance variance to assess gender fairness."
+  },
+  {
+    "question": "How can we ensure inclusive participation in data collection across gender identities?",
+    "question_id": 4,
+    "develop_stages": "Data Collection",
+    "context": "Conducting gender disaggregated data analysis during data collection is imperative. It involves separating collected data by gender categories like male/female/unspecified and digging deeper to uncover systemic differences between various groups and identities.",
+    "answer": "It reveals disparities and potential biases early, enabling proactive adjustments before model training begins."
+  },
+  {
+    "question": "What methods can help identify gender-related barriers in humanitarian aid?",
+    "question_id": 98,
+    "develop_stages": "Problem identification",
+    "context": "Problem identification is where the team defines the objectives and the data needed to address the underlying problem.",
+    "answer": "Ensure the problem definition explicitly considers gender-related challenges and includes objectives to mitigate gender inequity."
+  },
+  {
+    "question": "What should be included in the deployment checklist for gender safety in humanitarian aid?",
+    "question_id": 49,
+    "develop_stages": "Deployment",
+    "context": "Ensure problem centric deployment that is intricately aligned with the specific challenges faced by country programs and services.",
+    "answer": "Align deployments with local gender needs and validate inclusivity in real-world usage scenarios."
+  },
+  {
+    "question": "What methods help us collect consented gender data from underrepresented groups?",
+    "question_id": 5,
+    "develop_stages": "Data Collection",
+    "context": "Conducting gender disaggregated data analysis during data collection is imperative. It involves separating collected data by gender categories like male/female/unspecified and digging deeper to uncover systemic differences between various groups and identities.",
+    "answer": "It reveals disparities and potential biases early, enabling proactive adjustments before model training begins."
+  },
+  {
+    "question": "How frequently should smart city infrastructure models be audited for gender bias?",
+    "question_id": 54,
+    "develop_stages": "Model Evaluation",
+    "context": "Quantify fairness metrics including variance and uncertainty of computed performance measures. Pay particular attention to gender groups prone to underrepresentation.",
+    "answer": "Include demographic parity, equal opportunity, and subgroup performance variance to assess gender fairness."
+  },
+  {
+    "question": "Why is it important to involve diverse community members when identifying AI problems?",
+    "question_id": 33,
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers.",
+    "answer": "Involving diverse community members ensures that gendered experiences and barriers are considered, leading to more equitable AI solutions."
+  },
+  {
+    "question": "Why is it important to log all gender-related transformations applied to data?",
+    "question_id": 9,
+    "develop_stages": "Data preprocessing",
+    "context": "Clean the data by handling missing values via imputation, smoothing noise using binning, outlier capping.",
+    "answer": "Use ethical imputation methods that do not reinforce bias, or consider excluding incomplete records if imputation is not viable."
+  },
+  {
+    "question": "How can staging deployment in NGO field data systems help identify gender-based risks?",
+    "question_id": 72,
+    "develop_stages": "Deployment",
+    "context": "Establish deployment gates before full production release. Staged gates enforce rigorous standards at each deployment phase, including gender fairness measures.",
+    "answer": "Define gender equity checkpoints in deployment gates and ensure accessibility features are built in."
+  },
+  {
+    "question": "What evaluation metrics best capture long-term gender inclusion performance?",
+    "question_id": 24,
+    "develop_stages": "Evaluation",
+    "context": "Budget for regular algorithmic audits by specialists in identifying algorithmic harms to measure efficacy of group bias.",
+    "answer": "Conduct audits at regular intervals, such as quarterly or biannually, depending on data update frequency."
+  },
+  {
+    "question": "How can data collection be adjusted to reflect local gender norms in humanitarian aid?",
+    "question_id": 100,
+    "develop_stages": "Data Collection",
+    "context": "Ensure safeguards to collect, store and label personal data lawfully, transparently, and securely with permission. Such safeguards must clearly explain the purpose of data gathering and types of questions in informed consent procedures.",
+    "answer": "You need clear consent procedures, secure data handling, and transparent communication about data use."
+  },
+  {
+    "question": "How can adversarial testing be used to explore bias across gender subgroups?",
+    "question_id": 18,
+    "develop_stages": "Model Tuning and Training",
+    "context": "Implement adversarial validation to proactively search for problematic failure from the model in use cases across demographics.",
+    "answer": "It helps detect and address cases where the model may fail or behave unfairly for specific gender groups."
+  },
+  {
+    "question": "How can hyperparameter tuning be optimized to support fairness in job recommendation systems?",
+    "question_id": 57,
+    "develop_stages": "Model Tuning and Training",
+    "context": "Implement adversarial validation to proactively search for problematic failure from the model in use cases across demographics.",
+    "answer": "It helps detect and address cases where the model may fail or behave unfairly for specific gender groups."
+  },
+  {
+    "question": "How can gender-disaggregated analysis help during data collection?",
+    "question_id": 34,
+    "develop_stages": "Data Collection",
+    "context": "Conducting gender disaggregated data analysis during data collection is imperative. It involves separating collected data by gender categories like male/female/unspecified and digging deeper to uncover systemic differences between various groups and identities.",
+    "answer": "It reveals disparities and potential biases early, enabling proactive adjustments before model training begins."
+  },
+  {
+    "question": "How do we design user feedback forms to detect gender-related failures?",
+    "question_id": 23,
+    "develop_stages": "Evaluation",
+    "context": "Archive versions of data and models to allow rollback if problems emerge. Archiving supports comparison and rollback for diagnosis of emergent gender-related issues.",
+    "answer": "It enables issue tracing, comparison, and rollback in case of emergent gender bias or performance issues."
+  },
+  {
+    "question": "How can we balance inclusivity with privacy during data collection for financial services?",
+    "question_id": 64,
+    "develop_stages": "Data Collection",
+    "context": "Ensure safeguards to collect, store and label personal data lawfully, transparently, and securely with permission. Such safeguards must clearly explain the purpose of data gathering and types of questions in informed consent procedures.",
+    "answer": "You need clear consent procedures, secure data handling, and transparent communication about data use."
+  },
+  {
+    "question": "How do we define success for gender equity in the context of healthcare applications?",
+    "question_id": 59,
+    "develop_stages": "Problem identification",
+    "context": "Problem identification is where the team defines the objectives and the data needed to address the underlying problem.",
+    "answer": "Ensure the problem definition explicitly considers gender-related challenges and includes objectives to mitigate gender inequity."
+  },
+  {
+    "question": "How can hyperparameter tuning be optimized to support fairness in smart city infrastructure?",
+    "question_id": 77,
+    "develop_stages": "Model Tuning and Training",
+    "context": "Define Model Complexity: Assess the model's complexity in terms of parameters and architecture, crucial as more complex models demand larger datasets to capture nuanced gender-related patterns effectively.",
+    "answer": "Use statistical power analysis or learning curves to evaluate if your dataset adequately represents all gender groups."
+  },
+  {
+    "question": "How should we adapt model architectures to avoid reinforcing gender stereotypes?",
+    "question_id": 11,
+    "develop_stages": "Model Creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics.",
+    "answer": "They provide transparency by documenting fairness metrics and gender-related performance evaluations."
+  },
+  {
+    "question": "Why is obtaining consent critical when collecting gender-specific data in smart city infrastructure?",
+    "question_id": 43,
+    "develop_stages": "Data Collection",
+    "context": "Conducting gender disaggregated data analysis during data collection is imperative. It involves separating collected data by gender categories like male/female/unspecified and digging deeper to uncover systemic differences between various groups and identities.",
+    "answer": "It reveals disparities and potential biases early, enabling proactive adjustments before model training begins."
+  },
+  {
+    "question": "Why is it important to include marginalized voices when planning AI for humanitarian aid?",
+    "question_id": 66,
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers.",
+    "answer": "Involving diverse community members ensures that gendered experiences and barriers are considered, leading to more equitable AI solutions."
+  },
+  {
+    "question": "How can data collection be adjusted to reflect local gender norms in healthcare applications?",
+    "question_id": 45,
+    "develop_stages": "Data Collection",
+    "context": "Ensure safeguards to collect, store and label personal data lawfully, transparently, and securely with permission. Such safeguards must clearly explain the purpose of data gathering and types of questions in informed consent procedures.",
+    "answer": "You need clear consent procedures, secure data handling, and transparent communication about data use."
+  },
+  {
+    "question": "What are signs that an existing image classification model should be retrained for equity?",
+    "question_id": 85,
+    "develop_stages": "Evaluation",
+    "context": "Budget for regular algorithmic audits by specialists in identifying algorithmic harms to measure efficacy of group bias.",
+    "answer": "Conduct audits at regular intervals, such as quarterly or biannually, depending on data update frequency."
+  },
+  {
+    "question": "What preprocessing step is key to preserving fairness across non-binary identities?",
+    "question_id": 8,
+    "develop_stages": "Data preprocessing",
+    "context": "An essential precursor to model creation is analysis of the prepared dataset using an intersectional approach to unveil potential gender biases.",
+    "answer": "It helps detect and address compounded discrimination by analyzing how gender intersects with other attributes like race or income."
+  },
+  {
+    "question": "How can we align gender equity goals with broader humanitarian program goals?",
+    "question_id": 3,
+    "develop_stages": "Problem identification",
+    "context": "Problem identification is where the team defines the objectives and the data needed to address the underlying problem.",
+    "answer": "Ensure the problem definition explicitly considers gender-related challenges and includes objectives to mitigate gender inequity."
+  },
+  {
+    "question": "What validation techniques work best to track gender performance parity?",
+    "question_id": 17,
+    "develop_stages": "Model Tuning and Training",
+    "context": "Define Model Complexity: Assess the model's complexity in terms of parameters and architecture, crucial as more complex models demand larger datasets to capture nuanced gender-related patterns effectively.",
+    "answer": "Use statistical power analysis or learning curves to evaluate if your dataset adequately represents all gender groups."
+  },
+  {
+    "question": "Why is it important to archive previous versions of models?",
+    "question_id": 40,
+    "develop_stages": "Evaluation",
+    "context": "Archive versions of data and models to allow rollback if problems emerge. Archiving supports comparison and rollback for diagnosis of emergent gender-related issues.",
+    "answer": "It enables issue tracing, comparison, and rollback in case of emergent gender bias or performance issues."
+  },
+  {
+    "question": "How does local infrastructure impact equitable AI deployment in voice assistants?",
+    "question_id": 61,
+    "develop_stages": "Deployment",
+    "context": "Ensure problem centric deployment that is intricately aligned with the specific challenges faced by country programs and services.",
+    "answer": "Align deployments with local gender needs and validate inclusivity in real-world usage scenarios."
+  },
+  {
+    "question": "How does model architecture affect gender inclusivity in humanitarian aid?",
+    "question_id": 65,
+    "develop_stages": "Model Creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics.",
+    "answer": "They provide transparency by documenting fairness metrics and gender-related performance evaluations."
+  },
+  {
+    "question": "How can we balance inclusivity with privacy during data collection for healthcare applications?",
+    "question_id": 86,
+    "develop_stages": "Data Collection",
+    "context": "Ensure safeguards to collect, store and label personal data lawfully, transparently, and securely with permission. Such safeguards must clearly explain the purpose of data gathering and types of questions in informed consent procedures.",
+    "answer": "You need clear consent procedures, secure data handling, and transparent communication about data use."
+  },
+  {
+    "question": "Why is it important to include marginalized voices when planning AI for healthcare applications?",
+    "question_id": 99,
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers.",
+    "answer": "Involving diverse community members ensures that gendered experiences and barriers are considered, leading to more equitable AI solutions."
+  },
+  {
+    "question": "What safeguards are necessary when collecting gender-related data?",
+    "question_id": 26,
+    "develop_stages": "Data Collection",
+    "context": "Ensure safeguards to collect, store and label personal data lawfully, transparently, and securely with permission. Such safeguards must clearly explain the purpose of data gathering and types of questions in informed consent procedures.",
+    "answer": "You need clear consent procedures, secure data handling, and transparent communication about data use."
+  },
+  {
+    "question": "What should be included in the deployment checklist for gender safety in smart city infrastructure?",
+    "question_id": 80,
+    "develop_stages": "Deployment",
+    "context": "Establish deployment gates before full production release. Staged gates enforce rigorous standards at each deployment phase, including gender fairness measures.",
+    "answer": "Define gender equity checkpoints in deployment gates and ensure accessibility features are built in."
+  },
+  {
+    "question": "How can staging deployment in job recommendation systems help identify gender-based risks?",
+    "question_id": 82,
+    "develop_stages": "Deployment",
+    "context": "Ensure problem centric deployment that is intricately aligned with the specific challenges faced by country programs and services.",
+    "answer": "Align deployments with local gender needs and validate inclusivity in real-world usage scenarios."
+  },
+  {
+    "question": "How should proxy features be evaluated for gender bias during preprocessing?",
+    "question_id": 7,
+    "develop_stages": "Data preprocessing",
+    "context": "Clean the data by handling missing values via imputation, smoothing noise using binning, outlier capping.",
+    "answer": "Use ethical imputation methods that do not reinforce bias, or consider excluding incomplete records if imputation is not viable."
+  },
+  {
+    "question": "How do fairness metrics differ when measuring intersectional bias?",
+    "question_id": 13,
+    "develop_stages": "Model Evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis.",
+    "answer": "It uncovers hidden biases that may not be apparent in overall accuracy metrics, ensuring more equitable performance."
+  },
+  {
+    "question": "What training methods reduce gender bias in job recommendation systems models?",
+    "question_id": 95,
+    "develop_stages": "Model Tuning and Training",
+    "context": "Implement adversarial validation to proactively search for problematic failure from the model in use cases across demographics.",
+    "answer": "It helps detect and address cases where the model may fail or behave unfairly for specific gender groups."
+  },
+  {
+    "question": "What methods can help identify gender-related barriers in healthcare applications?",
+    "question_id": 67,
+    "develop_stages": "Problem identification",
+    "context": "Problem identification is where the team defines the objectives and the data needed to address the underlying problem.",
+    "answer": "Ensure the problem definition explicitly considers gender-related challenges and includes objectives to mitigate gender inequity."
+  },
+  {
+    "question": "How frequently should image classification models be audited for gender bias?",
+    "question_id": 88,
+    "develop_stages": "Model Evaluation",
+    "context": "Quantify fairness metrics including variance and uncertainty of computed performance measures. Pay particular attention to gender groups prone to underrepresentation.",
+    "answer": "Include demographic parity, equal opportunity, and subgroup performance variance to assess gender fairness."
+  },
+  {
+    "question": "How do I determine if I have enough gender-representative training data?",
+    "question_id": 30,
+    "develop_stages": "Model Tuning and Training",
+    "context": "Define Model Complexity: Assess the model's complexity in terms of parameters and architecture, crucial as more complex models demand larger datasets to capture nuanced gender-related patterns effectively.",
+    "answer": "Use statistical power analysis or learning curves to evaluate if your dataset adequately represents all gender groups."
+  },
+  {
+    "question": "What training methods reduce gender bias in voice assistants models?",
+    "question_id": 51,
+    "develop_stages": "Model Tuning and Training",
+    "context": "Implement adversarial validation to proactively search for problematic failure from the model in use cases across demographics.",
+    "answer": "It helps detect and address cases where the model may fail or behave unfairly for specific gender groups."
+  },
+  {
+    "question": "How can we empower local managers to adapt gender-aware models after deployment?",
+    "question_id": 19,
+    "develop_stages": "Deployment",
+    "context": "Ensure problem centric deployment that is intricately aligned with the specific challenges faced by country programs and services.",
+    "answer": "Align deployments with local gender needs and validate inclusivity in real-world usage scenarios."
+  },
+  {
+    "question": "How can version control support accountability in gender-focused deployments?",
+    "question_id": 21,
+    "develop_stages": "Deployment",
+    "context": "Ensure problem centric deployment that is intricately aligned with the specific challenges faced by country programs and services.",
+    "answer": "Align deployments with local gender needs and validate inclusivity in real-world usage scenarios."
+  },
+  {
+    "question": "What preprocessing techniques help prevent bias in voice assistants datasets?",
+    "question_id": 92,
+    "develop_stages": "Data preprocessing",
+    "context": "An essential precursor to model creation is analysis of the prepared dataset using an intersectional approach to unveil potential gender biases.",
+    "answer": "It helps detect and address compounded discrimination by analyzing how gender intersects with other attributes like race or income."
+  },
+  {
+    "question": "What is a recommended cadence for intersectional model audits?",
+    "question_id": 15,
+    "develop_stages": "Model Evaluation",
+    "context": "Quantify fairness metrics including variance and uncertainty of computed performance measures. Pay particular attention to gender groups prone to underrepresentation.",
+    "answer": "Include demographic parity, equal opportunity, and subgroup performance variance to assess gender fairness."
+  },
+  {
+    "question": "How do I ensure gender equity is a core part of our AI project's problem statement?",
+    "question_id": 25,
+    "develop_stages": "Problem identification",
+    "context": "Problem identification is where the team defines the objectives and the data needed to address the underlying problem.",
+    "answer": "Ensure the problem definition explicitly considers gender-related challenges and includes objectives to mitigate gender inequity."
+  },
+  {
+    "question": "How does model architecture affect gender inclusivity in NGO field data systems?",
+    "question_id": 81,
+    "develop_stages": "Model Creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics.",
+    "answer": "They provide transparency by documenting fairness metrics and gender-related performance evaluations."
+  },
+  {
+    "question": "What makes a foundation model suitable for gender-equity-focused applications?",
+    "question_id": 10,
+    "develop_stages": "Model Creation",
+    "context": "Evaluate and select model architectures that inherently account for gender fairness and equity considerations.",
+    "answer": "Select models known for their transparency and ability to incorporate fairness constraints or bias mitigation strategies."
+  },
+  {
+    "question": "What should trigger a model rollback in terms of gender fairness?",
+    "question_id": 22,
+    "develop_stages": "Evaluation",
+    "context": "Archive versions of data and models to allow rollback if problems emerge. Archiving supports comparison and rollback for diagnosis of emergent gender-related issues.",
+    "answer": "It enables issue tracing, comparison, and rollback in case of emergent gender bias or performance issues."
+  },
+  {
+    "question": "What kind of explainability supports model trust across diverse gender groups?",
+    "question_id": 14,
+    "develop_stages": "Model Evaluation",
+    "context": "Quantify fairness metrics including variance and uncertainty of computed performance measures. Pay particular attention to gender groups prone to underrepresentation.",
+    "answer": "Include demographic parity, equal opportunity, and subgroup performance variance to assess gender fairness."
+  },
+  {
+    "question": "How should I handle missing gender data during preprocessing?",
+    "question_id": 27,
+    "develop_stages": "Data preprocessing",
+    "context": "Clean the data by handling missing values via imputation, smoothing noise using binning, outlier capping.",
+    "answer": "Use ethical imputation methods that do not reinforce bias, or consider excluding incomplete records if imputation is not viable."
+  },
+  {
+    "question": "What training methods reduce gender bias in NGO field data systems models?",
+    "question_id": 53,
+    "develop_stages": "Model Tuning and Training",
+    "context": "Define Model Complexity: Assess the model's complexity in terms of parameters and architecture, crucial as more complex models demand larger datasets to capture nuanced gender-related patterns effectively.",
+    "answer": "Use statistical power analysis or learning curves to evaluate if your dataset adequately represents all gender groups."
+  },
+  {
+    "question": "How do we define success for gender equity in the context of image classification?",
+    "question_id": 42,
+    "develop_stages": "Problem identification",
+    "context": "Conduct human centered design workshops with relevant community members and domain experts to gather needs, solidify the core problem, and frame requirements for addressing identified gender biases and related barriers.",
+    "answer": "Involving diverse community members ensures that gendered experiences and barriers are considered, leading to more equitable AI solutions."
+  },
+  {
+    "question": "What\u2019s the role of intersectionality in data preprocessing?",
+    "question_id": 38,
+    "develop_stages": "Data preprocessing",
+    "context": "An essential precursor to model creation is analysis of the prepared dataset using an intersectional approach to unveil potential gender biases.",
+    "answer": "It helps detect and address compounded discrimination by analyzing how gender intersects with other attributes like race or income."
+  },
+  {
+    "question": "Which fairness metrics should I include during model evaluation?",
+    "question_id": 36,
+    "develop_stages": "Model Evaluation",
+    "context": "Quantify fairness metrics including variance and uncertainty of computed performance measures. Pay particular attention to gender groups prone to underrepresentation.",
+    "answer": "Include demographic parity, equal opportunity, and subgroup performance variance to assess gender fairness."
+  },
+  {
+    "question": "Why should model deployment be staged when addressing gender-sensitive use cases?",
+    "question_id": 20,
+    "develop_stages": "Deployment",
+    "context": "Ensure problem centric deployment that is intricately aligned with the specific challenges faced by country programs and services.",
+    "answer": "Align deployments with local gender needs and validate inclusivity in real-world usage scenarios."
+  },
+  {
+    "question": "How can we ensure that voice assistants models consider fairness across gender lines?",
+    "question_id": 97,
+    "develop_stages": "Model Creation",
+    "context": "Model cards are essential documents in AI, outlining details from data preprocessing to performance metrics.",
+    "answer": "They provide transparency by documenting fairness metrics and gender-related performance evaluations."
+  },
+  {
+    "question": "Why is subgroup performance analysis important for evaluating NGO field data systems?",
+    "question_id": 84,
+    "develop_stages": "Model Evaluation",
+    "context": "Compare candidate models not just based on overall accuracy but also key identity variables (e.g., gender, income level, geography) through intersectional analysis.",
+    "answer": "It uncovers hidden biases that may not be apparent in overall accuracy metrics, ensuring more equitable performance."
+  },
+  {
+    "question": "What is the role of adversarial validation in mitigating gender bias?",
+    "question_id": 39,
+    "develop_stages": "Model Tuning and Training",
+    "context": "Implement adversarial validation to proactively search for problematic failure from the model in use cases across demographics.",
+    "answer": "It helps detect and address cases where the model may fail or behave unfairly for specific gender groups."
+  },
+  {
+    "question": "How can staging deployment in humanitarian aid help identify gender-based risks?",
+    "question_id": 89,
+    "develop_stages": "Deployment",
+    "context": "Establish deployment gates before full production release. Staged gates enforce rigorous standards at each deployment phase, including gender fairness measures.",
+    "answer": "Define gender equity checkpoints in deployment gates and ensure accessibility features are built in."
+  }
+]
